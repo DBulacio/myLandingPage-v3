@@ -2,6 +2,9 @@ body {
   font-family: arial;
   background-color: #ccc;
 }
+bg-menu {
+  /* TODO: poner el color del dropdownmenu en #444 */
+}
 /* NAVBAR */
 nav {
   background-color: transparent;
